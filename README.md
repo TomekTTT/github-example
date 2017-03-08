@@ -12,3 +12,8 @@ Licensing
 =========
 
 Unknown.
+
+Copyright
+=========
+
+Copyright :)
