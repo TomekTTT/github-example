@@ -17,3 +17,10 @@ Copyright
 =========
 
 Copyright :)
+
+Contributors
+============
+
+Jan Kowalski
+Adam Nowak
+Zbigniew Jaskóła
